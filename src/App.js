@@ -86,6 +86,7 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
   },
   techsContainer: {
+    flexWrap:"wrap",
     flexDirection: "row",
     marginTop: 10,
   },
